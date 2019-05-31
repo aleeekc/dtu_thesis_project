@@ -1,0 +1,9 @@
+requests
+sqlalchemy
+#pysqlcipher3
+cryptography
+opencv-python
+qrcode
+fusepy
+cryptography
+paramiko
